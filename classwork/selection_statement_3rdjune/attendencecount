@@ -1,0 +1,8 @@
+#attendence count =0
+#total student =30
+attendence_count=0
+total_student=30
+while attendence_count < total_student:
+    attendence_count+=1
+    print("Attendence count is ",attendence_count)
+    print("Total student is ",30)
