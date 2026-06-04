@@ -1,1 +1,0 @@
-print (hash("Anudip Foundation"))
